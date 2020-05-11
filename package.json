@@ -1,0 +1,14 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "MERN todo app",
+  "main": "index.js",
+  "scripts": {
+    "devstart": "concurrently \"cd backend && npm run devstart\" \"cd frontend && npm run start\" "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^5.2.0"
+  }
+}
