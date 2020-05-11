@@ -1,3 +1,7 @@
+Based on tutorial:
+https://www.digitalocean.com/community/tutorials/getting-started-with-the-mern-stack
+with some changes made
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
